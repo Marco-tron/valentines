@@ -4,7 +4,7 @@ export default {
   /*
   ** Headers of the page
   */
- router: { base: '/valentines-day/' },
+ router: { base: '/valentines/' },
   head: {
     title: process.env.npm_package_name || '',
     meta: [
